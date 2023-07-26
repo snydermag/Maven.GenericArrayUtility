@@ -1,11 +1,11 @@
 package com.zipcodewilmington.arrayutility;
 
-import com.zipcodewilmington.UnitTestingUtils;
+//import com.zipcodewilmington.UnitTestingUtils;
 import org.junit.Test;
 
 /**
  * Created by leon on 3/1/18.
- * The purpose of this class is to thoroughly test the method removeValue()
+ * The purpose of this class is to thoroughly test the method rem oveValue()
  */
 public class RemoveValueTest {
     @Test
